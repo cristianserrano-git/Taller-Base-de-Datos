@@ -1,4 +1,4 @@
-
+CREATE DATABASE taller;
 USE taller;
 
 CREATE TABLE  Sexo(
